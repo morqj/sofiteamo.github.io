@@ -57,11 +57,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#667eea",   // Azul violeta suave
-        backgroundEnd: "#764ba2",     // Morado elegante que combina perfecto
-        buttonBackground: "#ffffff",  // Botón blanco para que destaque fuerte
-        buttonHover: "#f1f2f6",       // Gris muy claro al pasar el mouse
-        textColor: "#2f3542"          // Gris oscuro elegante y muy legible
+        backgroundStart: "#ffafbd",   // Azul violeta suave
+        backgroundEnd: "#ffc3a0",     // Morado elegante que combina perfecto
+        buttonBackground: "#ff6b6b",  // Botón blanco para que destaque fuerte
+        buttonHover: "#ff8787",       // Gris muy claro al pasar el mouse
+        textColor: "#ff4757"          // Gris oscuro elegante y muy legible
     },
 
     // Animation settings
