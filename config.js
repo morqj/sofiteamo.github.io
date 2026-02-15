@@ -43,25 +43,25 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "TODO ESO ME AMAS!? 🩷",  // Shows when they go past 5000%
-        high: "Más que infinito 🚀",              // Shows when they go past 1000%
+        high: "Más que infinito 💋",              // Shows when they go past 1000%
         normal: "Muchoo 🥰"                          // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAAY! Te super mega amo 🎉💝",
-        message: "Ahora ven por tu regalo un besito jijiji 💋",
-        emojis: "🤗💋💕"  // These will bounce around
+        message: "Ahora un besito jijiji ",
+        emojis: "💋"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#667eea",   // Azul violeta suave
+        backgroundEnd: "#764ba2",     // Morado elegante que combina perfecto
+        buttonBackground: "#ffffff",  // Botón blanco para que destaque fuerte
+        buttonHover: "#f1f2f6",       // Gris muy claro al pasar el mouse
+        textColor: "#2f3542"          // Gris oscuro elegante y muy legible
     },
 
     // Animation settings
